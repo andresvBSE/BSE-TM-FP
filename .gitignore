@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datafiles 
+tweets_2107_s10.csv
+tweets_2108_s10.csv
+tweets_2109_s10.csv
+tweets_2110_s10.csv
